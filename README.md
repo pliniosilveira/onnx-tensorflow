@@ -1,5 +1,5 @@
 # Tensorflow Backend for ONNX
-[![Build Status](https://travis-ci.org/onnx/onnx-tensorflow.svg?branch=master)](https://travis-ci.org/onnx/onnx-tensorflow)
+[![Build Status](https://travis-ci.org/pliniosilveira/onnx-tensorflow.svg?branch=master)](https://travis-ci.org/onnx/onnx-tensorflow)
 
 ## To install:
 Firstly install [ONNX](https://github.com/onnx/onnx) which cannot be installed by pip unless protoc is available.
