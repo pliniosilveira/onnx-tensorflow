@@ -13,4 +13,4 @@ python test/backend/test_node.py
 python test/backend/test_model.py
 python test/backend/onnx_backend_test.py
 
-python test/frontend/test_node.py
+# python test/frontend/test_node.py
